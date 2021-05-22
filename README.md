@@ -13,7 +13,7 @@
 
 ### Here are some curiosities about myself:
 <h4>:smile: I'm a very spiritual person and always learn something positive when things don't go as planned.</h4>
-<h4>:musical_note: I do everything remembering that all notes played in a music go trough the universe, as well as our actions.</h4>
+<h4>:musical_note: Like jazz, for me life is an improvisation and something to be experienced.</h4>
 <h4>:couple: I really appreciate beign in touch with other people, cultures and places. My best soft skill is communication.</h4>
 <h4>:earth_americas: I have a bachelor's degree in International Relations. I am a lifelonger traveler and studious.</h4>
 <h4>:books: I am very determinated and curious about almost every subject.</h4>
