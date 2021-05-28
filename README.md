@@ -13,14 +13,14 @@
 
 ### Here are some curiosities about myself:
 <h4>:smile: I'm a very spiritual person and always learn something positive when things don't go as planned.</h4>
-<h4>:musical_note: For me, life is an improvisation and needs to be experienced, just like jazz.</h4>
+<h4>:musical_note: For me, life is an improvisation and needs to be experienced just like jazz.</h4>
 <h4>:couple: I really appreciate beign in touch with other people, cultures and places. My best soft skill is communication.</h4>
 <h4>:earth_americas: I have a bachelor's degree in International Relations. I am a lifelonger traveler and studious.</h4>
 <h4>:books: I am very determinated and curious about almost every subject.</h4>
 <h4>:loudspeaker: I speak fluent English, advanced Spanish, basic Germand and French.</h4><br>
 
 ### Here are some of my on going or past projects:
-<h4>:trophy: My team won the second place of FIAP's challenge with Magazine Luiza and Open Senses, and the third place of FIAP's challenge with BW2. You can check all these repositories <a href="https://github.com/larisvital?tab=repositories">here</a>.</h4><br>
+<h4>:trophy: My team won the second place of FIAP's challenge with Magazine Luiza and Open Senses, and the third place of FIAP's challenge with BW2. You can check all these repositories <a href="https://github.com/larisvital?tab=repositories">here</a>.</h4>
 <h4>:memo: I am currently enroll in a Bachelor's degree in Systems for Internet at FIAP (dec/22), a course of Software Engineer at FIAP and a Full Web Development course at Origamid.</h4>
 <h4>:dart: I am searching an intern job opportunity in Software Engineering or Full Stack Web Developer.</h4>
   
