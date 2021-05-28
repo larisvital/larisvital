@@ -20,10 +20,9 @@
 <h4>:loudspeaker: I speak fluent English, advanced Spanish, basic Germand and French.</h4><br>
 
 ### Here are some of my on going or past projects:
-<h4>:trophy: My team won the third place of FIAP's challenge with BW2 and you can check this repository <a href="https://github.com/larisvital/Desafio-FIAP-B2W">here</a>.
+<h4>:trophy: My team won the second place of FIAP's challenge with Magazine Luiza and Open Senses, and the third place of FIAP's challenge with BW2. You can check all these repositories <a href="https://github.com/larisvital?tab=repositories">here</a>.</h4><br>
 <h4>:memo: I am currently enroll in a Bachelor's degree in Systems for Internet at FIAP (dec/22), a course of Software Engineer at FIAP and a Full Web Development course at Origamid.</h4>
 <h4>:dart: I am searching an intern job opportunity in Software Engineering or Full Stack Web Developer.</h4>
-<h4>:eyes: You can check all my Github repositories <a href="https://github.com/larisvital?tab=repositories">here</a>.</h4><br>
   
 ### You can also find me here:
   <a href="https://www.linkedin.com/in/laris-vital/"><img src="linkedin.png"></a> <a href="https://outlook.com/lari.vital.com"><img src="outlook.png"></a>
